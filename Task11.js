@@ -1,0 +1,12 @@
+var celsius = 25;
+var fahrenhiet = (celsius *9)/5+32;
+document.write("Task#11");
+document.write("<br>");
+document.write(celsius  + '&deg;'+"Celsius is " + fahrenhiet+'&deg;'+"Farenhiet.");
+document.write("<br>");
+var Farenhiet = 70;
+var celsius = (Farenhiet -32)/9 * 5;
+document.write(Farenhiet +'&deg;'+"Farenhiet is " + celsius + '&deg;'+"Celcius.");
+document.write("<br>");
+document.write("<br>");
+document.write("<br>");

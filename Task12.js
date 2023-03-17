@@ -1,0 +1,10 @@
+var dollera=155;
+var dollerb=10;
+var riyala=41;
+var riyalb=25;
+document.write("Task#12");
+document.write("<br>");
+var total_pak=(dollera/dollerb+riyala/riyalb);
+document.write("Total currency in PKR is "+ total_pak);
+document.write("<br>");
+document.write("<br>");
